@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=00FFAA&center=true&vCenter=true&width=650&lines=+Hi,+I'm+Shaheer+Ahmad;Cyber+Security+Analyst;Penetration+Tester;Network+Security+Enthusiast;Digital+Forensics+Learner;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=00FFAA&center=true&vCenter=true&width=650&lines=+Hi,+I'm+Shaheer+Ahmad;Cyber+Security+Analyst;Penetration+Tester;Network+Security+Enthusiast;Digital+Forensics+Learner;" />
 </p>
 
 ---
