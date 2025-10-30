@@ -1,8 +1,6 @@
  <!-- ================== Animated GitHub Profile Header ================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shaheer%20Ahmad&fontAlign=50&fontAlignY=40&color=00FFFF,00FF00&fontColor=0a0a0a&animation=fadeIn&desc=Cyber%20Security%20Analyst%20%7C%20Penetration%20Tester%20%7C%20Network%20Security%20Enthusiast&descAlign=50&descAlignY=60" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=00FFAA&center=true&vCenter=true&width=650&lines=+Hi,+I'm+Shaheer+Ahmad;Cyber+Security+Analyst;Penetration+Tester;Network+Security+Enthusiast;Digital+Forensics+Learner;" />
