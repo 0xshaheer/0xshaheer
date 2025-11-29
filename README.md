@@ -38,6 +38,9 @@
 💥 **Web Forensic Investigation** – Investigated darknet marketplaces with a focus on **crypto tracing** and **data extraction**.  
 🛡️ **Defense System** – Developed a prototype **IDS/IPS** for advanced intrusion prevention.  
 📊 **Snort-based IDS Deployment** – Configured Snort for **real-time attack monitoring and log analysis**.
+💨 Wi-Fi Security Research (ESP32) – Performed controlled lab testing on wireless packet behavior, focusing on detection techniques and defensive countermeasures.
+📡 ESP32 Marauder Exploration – Analyzed the Marauder toolkit for protocol inspection, device scanning, and telemetry capture to strengthen wireless-security practices.
+🕷️ Cowrie Honeypot Deployment – Deployed Cowrie in an isolated environment to collect SSH/IoT attack patterns, generating actionable threat-intel insights.
 
 ---
 
